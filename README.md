@@ -5,6 +5,7 @@ Exploratory data analysis and dashboard creation using sales data
 This project analyzes sales data to uncover key business insights such as revenue trends, top-performing products, regional performance, and customer behavior.  
 The analysis is performed using **Power BI, and Excel** with the goal of supporting data-driven decision-making.  
 
+---
 
 ## 📂 Project Structure
 sales-data-analysis/
