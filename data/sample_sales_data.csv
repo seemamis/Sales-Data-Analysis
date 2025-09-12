@@ -1,1 +1,11 @@
 OrderID,OrderDate,CustomerName,Region,Category,Product,Quantity,UnitPrice,Sales,Profit
+1001,2023-01-31,Alice,East,Office Supplies,Pen,9,70,630,33.51
+1002,2023-02-28,Bob,West,Office Supplies,Laptop,1,378,378,36.36
+1003,2023-03-31,Charlie,North,Office Supplies,Desk,3,216,648,63.64
+1004,2023-04-30,David,East,Office Supplies,Monitor,7,323,2261,422.02
+1005,2023-05-31,Eva,East,Furniture,Chair,4,437,1748,300.65
+1006,2023-06-30,Frank,West,Office Supplies,Desk,9,138,1242,269.07
+1007,2023-07-31,Grace,North,Technology,Laptop,3,365,1095,92.72
+1008,2023-08-31,Hannah,North,Furniture,Pen,5,63,315,40.39
+1009,2023-09-30,Ivy,East,Technology,Monitor,3,291,873,75.47
+1010,2023-10-31,Jack,South,Technology,Desk,7,314,2198,441.96
