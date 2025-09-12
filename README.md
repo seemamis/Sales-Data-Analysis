@@ -8,6 +8,7 @@ The analysis is performed using **Power BI, and Excel** with the goal of support
 ---
 
 ## 📂 Project Structure
+'''
 sales-data-analysis/
 │
 ├── data/ # Sample datasets (CSV/Excel)
@@ -19,7 +20,7 @@ sales-data-analysis/
 ├── reports/ # Final reports (PDF/Markdown)
 ├── requirements.txt # List of Python libraries used
 └── README.md # Project overview
-
+'''
 
 ---
 
