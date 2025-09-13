@@ -64,6 +64,20 @@ Example Power BI Dashboard:
 
 ---
 
+## 📊 Case Study
+A detailed case study of the **Sales Performance Dashboard** is available here:  
+👉 [View Case Study](reports/case_study.md)
+
+Includes:  
+- Business Problem Statement  
+- Dataset Details  
+- Approach & Process  
+- Dashboard Design  
+- Key Insights & Business Impact  
+- Deliverables
+
+---
+
 ## 🙋 About Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/seemamishra723/)  
 - 📧 seema.mishra723@gmail.com
