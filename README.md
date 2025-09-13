@@ -1,6 +1,13 @@
 # Sales-Data-Analysis
 Exploratory data analysis and dashboard creation using sales data
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-DAX-yellow)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+
+---
+
 ## Project Overview
 This project analyzes sales data to uncover key business insights such as revenue trends, top-performing products, regional performance, and customer behavior.  
 The analysis is performed using **Power BI, and Excel** with the goal of supporting data-driven decision-making.  
@@ -32,27 +39,31 @@ sales-data-analysis/
 
 ---
 
-## Key Insights (examples)
-- Revenue has grown steadily over the last 12 months.  
-- Top 3 categories contribute 70% of total sales.  
-- Region A shows highest profit margins, while Region B struggles with losses.  
-- Customer retention rate improved after Q3 promotions.  
+## 📊 Visuals  
+Example Power BI Dashboard:  
+![Sales Dashboard](visuals/sales_dashboard.png)  
 
 ---
 
-## Tools & Technologies 
-- **Power BI** → Interactive dashboards  
-- **Excel** → Data exploration & pivot analysis  
-- **SQL** (optional) → Querying sales database  
+## 🚀 Tools Used  
+- **Power BI** (Dashboarding)  
+- **Excel** (Pivot Tables, Cleaning)  
+- **Python (pandas, matplotlib)** (Exploratory Data Analysis)  
 
 ---
 
-## Next Steps
-- Add machine learning for sales forecasting  
-- Build interactive dashboards with drill-down filters  
-- Automate reporting with Python scripts  
+## 📈 Key Insights (examples)  
+- 📍 Revenue grew steadily from Jan–Jun  
+- 🏆 Product A was the highest seller  
+- 🌍 Region X contributed 40% of sales  
 
 ---
 
-## Contact
-Created by **SEEMA MISHRA** – feel free to connect on [LinkedIn](#) or reach out for collaboration!
+## 📑 Reports  
+- [Download PDF Report](reports/Sales_Report.pdf) 
+
+---
+
+## 🙋 About Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seemamishra723/)  
+- 📧 seema.mishra723@gmail.com
